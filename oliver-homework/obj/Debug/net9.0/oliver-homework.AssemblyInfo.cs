@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("oliver-homework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d1f236c94b6d729fae4031d296f7db2df2bf29b")]
 [assembly: System.Reflection.AssemblyProductAttribute("oliver-homework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oliver-homework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
