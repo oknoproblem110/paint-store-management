@@ -427,3 +427,14 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Rider
+.idea/
+
+# .NET build files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
